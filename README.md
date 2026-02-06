@@ -1,6 +1,7 @@
 # Premium-Policy-Agreement
 
 Sawit Hub Premium - Policy & Agreement
+
 ​1. No Sharing Account/Key
 ​Lisensi Premium terikat pada UserID Anda. Segala bentuk sharing account atau pemindahan akses tanpa izin admin akan mengakibatkan Permanent Blacklist dari seluruh layanan Sawit Hub.
 
